@@ -1,0 +1,8 @@
+# Copy this file to `android/key.properties` and fill in your real values.
+# NEVER commit the real key.properties or your .jks/.keystore file to git.
+# Add both to .gitignore.
+
+storePassword=CHANGE_ME
+keyPassword=CHANGE_ME
+keyAlias=forex_signals_upload
+storeFile=../forex-signals-upload-key.jks
